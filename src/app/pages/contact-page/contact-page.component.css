@@ -1,0 +1,37 @@
+.con1{
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+
+ }
+
+form {
+    max-width: 600px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+input, textarea {
+    padding: 1em;
+    display: block;
+    width: 90%;
+    margin-top: 1em;
+    font-family: 'Merriweather', sans-serif;
+    resize: none;
+}
+   
+   
+
+.half {
+    float: left;
+    width: 48%;
+    margin-bottom: 1em;
+  }
+  
+  .right { width: 50%; }
+  
+  .left {
+       margin-right: 2%; 
+  }
+
+  
